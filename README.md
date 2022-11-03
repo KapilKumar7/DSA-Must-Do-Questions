@@ -20,6 +20,7 @@ The repo contains some of the most important questions from the following topics
 - Greedy Algorithms
 - Binary Search
 - Dynamic Programming
+- Bit Manupulation
 
 ## Inspiration
 
